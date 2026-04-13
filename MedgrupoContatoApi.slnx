@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Medgrupo.API/Medgrupo.API.csproj" />
+  <Project Path="Medgrupo.Domain/Medgrupo.Domain.csproj" />
+  <Project Path="Medgrupo.Tests/Medgrupo.Tests.csproj" />
+</Solution>
